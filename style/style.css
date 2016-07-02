@@ -1,0 +1,26 @@
+.centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top:20px;
+  width:500px;
+  height:auto;
+  text-align:center;
+  background-color: white;
+
+}
+
+
+
+#search {
+  margin:20px;
+}
+
+#bar {
+  margin:20px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
